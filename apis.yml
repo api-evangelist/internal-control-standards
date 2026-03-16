@@ -1,16 +1,28 @@
+aid: internal-control-standards
 name: Internal Control Standards
-description: Framework of policies and procedures designed to provide reasonable assurance
-  regarding the achievement of objectives in operational effectiveness, reliable financial
-  reporting, and compliance with laws and regulations. It helps organizations meet
-  regulatory requirements and demonstrate accountability to stakeholders.
-url: https://www.coso.org/guidance-on-internal-control
+description: >-
+  Internal Control Standards are frameworks of policies and procedures designed
+  to provide reasonable assurance regarding the achievement of objectives in
+  operational effectiveness, reliable financial reporting, and compliance with
+  laws and regulations. The COSO framework is a widely adopted standard for
+  internal controls.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Governance
-- Risk Management
-- Compliance
-- Auditing
-- Internal Controls
-created: '2025'
-modified: '2025'
+  - Governance
+  - Risk Management
+  - Compliance
+  - Auditing
+  - Internal Controls
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/internal-control-standards/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.coso.org/guidance-on-internal-control
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -9,11 +9,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Governance
-  - Risk Management
-  - Compliance
   - Auditing
+  - Compliance
+  - Governance
   - Internal Controls
+  - Risk Management
 url: >-
   https://raw.githubusercontent.com/api-evangelist/internal-control-standards/refs/heads/main/apis.yml
 created: '2025-01-01'
